@@ -1,3 +1,3 @@
 # LeetCode
-#   mubiao
-123456
+记录LeetCode解题思路
+
